@@ -1,0 +1,11 @@
+        /* Copyright (c) 2026 by Sabo Sugi (https://codepen.io/sabosugi/pen/yyabKEP) */
+        body {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #e5e5e5; 
+            font-family: sans-serif;
+        }
+        #fileInput {
+            display: none;
+        }
